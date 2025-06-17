@@ -2,7 +2,7 @@
 
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/abbuturabsyed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&style=flat)](https://abbu-turab.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&style=flat)](https://abbuturab-syed.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat)](https://leetcode.com/)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&style=flat)](https://quora.com/)
 
