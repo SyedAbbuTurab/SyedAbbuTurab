@@ -12,7 +12,7 @@
 I’m a Full Stack Developer and Machine Learning enthusiast passionate about solving real-world problems through scalable software systems.
 
 - 🔭 Constantly learning, building, and improving
-- 🌐 Portfolio: [abbu-turab.vercel.app](https://abbu-turab.vercel.app)
+- 🌐 Portfolio: [abbuturab-syed.com](https://abbuturab-syed.com)
 - 📫 Reach me at: **syedabbuturab@gmail.com**
 
 ---
