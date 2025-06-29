@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me:
+## 🙋‍♂️ About Me
 I’m a Full Stack Developer and Machine Learning enthusiast passionate about solving real-world problems through scalable software systems.
 
 - 🔭 Constantly learning, building, and improving
@@ -17,7 +17,7 @@ I’m a Full Stack Developer and Machine Learning enthusiast passionate about so
 
 ---
 
-## 🛠 My Tech Stack
+## 🛠 My Tech Stack:
 
 ### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
