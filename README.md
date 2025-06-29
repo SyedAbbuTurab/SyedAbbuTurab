@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abbu Turab Syed!
+# Hi👋, I'm Abbu Turab Syed!
 
 ## 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/abbuturabsyed/)
