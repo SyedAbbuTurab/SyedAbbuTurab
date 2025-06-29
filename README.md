@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 I’m a Full Stack Developer and Machine Learning enthusiast passionate about solving real-world problems through scalable software systems.
 
 - 🔭 Constantly learning, building, and improving
