@@ -20,7 +20,7 @@ I’m a Full Stack Developer and Machine Learning enthusiast passionate about so
 ## 🛠 My Tech Stack:
 
 ### 🚀 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=gnu-python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
