@@ -24,7 +24,7 @@ I’m a Full Stack Developer and Machine Learning enthusiast passionate about so
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
