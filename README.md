@@ -16,7 +16,6 @@ I’m a Full Stack Developer and Machine Learning enthusiast passionate about so
 - 📫 Reach me at: **syedabbuturab@gmail.com**
 
 ---
-
 ## 🛠 My Tech Stack:
 
 ### 🚀 Languages
